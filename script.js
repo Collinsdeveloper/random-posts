@@ -35,7 +35,7 @@ async function fetchPosts() {
 
         const posts = await response.json();
 
-        // Optional: pick random posts (e.g., 5 random posts)
+        // Pick 5 random posts
         const randomPosts = posts.sort(() => 0.5 - Math.random()).slice(0, 5);
 
         // Display posts
