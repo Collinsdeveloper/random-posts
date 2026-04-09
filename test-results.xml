@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.893" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2026-04-09T15:42:14" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Lab Async/Await Functions" timestamp="2026-04-09T15:42:14" tests="2" file="/home/collins-kipngetich/Downloads/random-posts/test/script.test.js" time="0.890" failures="0">
+    <testcase name="Lab Async/Await Functions displayPosts adds li elements to ul" time="0.021" classname="displayPosts adds li elements to ul">
+    </testcase>
+    <testcase name="Lab Async/Await Functions fetchPosts returns an array of posts" time="0.748" classname="fetchPosts returns an array of posts">
+    </testcase>
+  </testsuite>
+</testsuites>
